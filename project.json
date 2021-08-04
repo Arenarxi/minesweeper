@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "minesweeper",
+  "id": "32280302-7d98-4274-9387-4e857c883494",
+  "version": "2.4.5",
+  "isNew": false
+}
